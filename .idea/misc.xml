@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/AppBase/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringTest/pom.xml" />
       </list>
     </option>
   </component>

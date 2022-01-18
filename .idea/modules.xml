@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AppBase/app.iml" filepath="$PROJECT_DIR$/AppBase/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/app-learning-java.iml" filepath="$PROJECT_DIR$/.idea/app-learning-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringTest/shoppingcart.iml" filepath="$PROJECT_DIR$/SpringTest/shoppingcart.iml" />
     </modules>
   </component>
 </project>
